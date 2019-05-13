@@ -127,6 +127,10 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
 
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/abheersingh"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/abheersingh"
